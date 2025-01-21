@@ -1,0 +1,2 @@
+add_lunch_combo omni_Infinix-X688B-eng
+add_lunch_combo omni_Infinix-X688B-userdebug
